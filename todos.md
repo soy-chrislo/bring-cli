@@ -1,0 +1,3 @@
+- Implement `suggestions` before install repositories and components.
+- Remove private repositories and unnecessary github oauth.
+- 

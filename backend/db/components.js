@@ -21,6 +21,12 @@ const components = [
 			devDependencies: [],
 			scripts: [],
 		},
+		postconfig: {
+			suggestions: [
+				"Implement ToastProvider.tsx in your root node",
+				"Implement useToast.ts whenever you need trigger toast function.",
+			],
+		},
 		files: [
 			{
 				dir: "components",
